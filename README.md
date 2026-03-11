@@ -20,3 +20,14 @@ Features
 • File/Image Upload
 • Application Logging
 • Responsive/Clean UI
+
+## Preview Project
+
+![Homepage](screenshots/login.png)
+![Homepage](screenshots/register.png)
+![Homepage](screenshots/dashboard.png)
+![Homepage](screenshots/inventory.png)
+![Homepage](screenshots/category.png)
+![Homepage](screenshots/alert.png)
+![Homepage](screenshots/settings.png)
+
